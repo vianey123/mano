@@ -1,0 +1,26 @@
+#contenedor {
+  width: 700px;
+}
+#cabecera {
+  float: left;
+  width: 150px;
+  background-color: black;
+}
+
+#menu {
+  float: left;
+  width: 150px;
+  background-color: blue;
+}
+#contenido {
+  float: left;
+  width: 550px;
+}
+
+#pie {
+  clear: both;
+}
+
+ul.men {
+  list-style: none;
+}

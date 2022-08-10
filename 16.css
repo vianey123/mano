@@ -1,0 +1,94 @@
+h1 {
+  font-size: x-large;
+  color: rgb(11, 227, 235);
+  text-align: center;
+}
+h1.nino {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: blue;
+  text-align: center;
+}
+p.destacado {
+  color: brown;
+}
+h1.diego {
+  font-size: small;
+  font-family: cursive;
+  color: lime;
+  text-decoration: overline;
+}
+table.pedro {
+  border: 4%;
+}
+
+div.gente {
+  margin: 0.4em 0;
+}
+div label {
+  width: 25%;
+  float: left;
+}
+
+div.gente1 {
+  margin: 0.4em 0;
+}
+button {
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font: 700;
+  color: blueviolet;
+  text-decoration-color: blue;
+  margin-left: 25ex;
+}
+
+h2 {
+  font-family: fantasy;
+  color: red;
+  font-size: larger;
+  text-align: right;
+}
+
+div {
+  text-align: center;
+}
+
+div.vianey {
+  text-align: left;
+}
+
+div.blanco {
+  text-align: right;
+  color: blue;
+  text-decoration: fuchsia;
+}
+
+menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+nav {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 100%;
+  color: aqua;
+}
+a.menu_link {
+  display: block;
+  padding: 20px;
+  background: #fb19b0;
+  text-decoration: none;
+  color: aliceblue;
+}
+a.menu_link:hover {
+  background: white;
+  color: #fb19b0;
+}
+div.oso {
+  position: center;
+}
+
+li.menu_item {
+  list-style-type: none;
+}
